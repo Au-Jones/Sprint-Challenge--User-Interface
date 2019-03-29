@@ -70,6 +70,31 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header img{
+    width:200px;
+    padding-bottom:33px;
+}
+
+header nav{
+    display:flex;
+    justify-content:space-between;
+    width:550px;
+    margin-top:35px;
+    margin-bottom: 35px;
+
+}
+nav a{
+    color:black;
+}
+
+.banner{
+    padding-bottom: 25px;
+}
 
 .top-content {
     display: flex;
@@ -144,3 +169,136 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.box1{
+    background-color: teal;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.box2{
+    background-color: gold;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.box3{
+     background-color: cadetblue;
+     width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.box4{
+    background-color: coral;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.box5{
+    background-color: crimson;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.box6{
+    background-color: forestgreen;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.box7{
+    background-color:darkorchid;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.box8{
+    background-color: hotpink;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.box9{
+    background-color: indigo;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+ .box10{
+    background-color: dodgerblue;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+/* start of the about page html */
+
+.top-content2{
+  display:flex;
+  flex-wrap:nowrap;
+  width:370px;
+  
+}
+
+.middle-content2{
+    display:flex;
+    flex-wrap:nowrap;
+}
+.top-text2{
+    margin: 15px;
+    
+}
+
+.midd-text2{
+    margin:15px;
+    
+}
+
+
+
+button{
+    border-radius: 8px;
+    background-color:white;
+}
+
