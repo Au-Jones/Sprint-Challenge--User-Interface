@@ -275,6 +275,30 @@ footer nav a {
 
 
 /* start of about page */
+/* .containerabout-page{
+    margin: 0,auto;
+} */
 
+.top-content2{
+  display:flex;
+  border: 2px solid blue;
+  flex-wrap:nowrap;
+  width:370px;
+  /* justify-content:space-between; */
+}
+
+.middle-content2{
+    display:flex;
+    flex-wrap:nowrap;
+}
+.top-text2{
+    margin: 15px;
+    
+}
+
+.midd-text2{
+    margin:15px;
+    
+}
 
 
