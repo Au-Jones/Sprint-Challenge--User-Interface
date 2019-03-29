@@ -69,7 +69,6 @@ p {
 .container {
     width: 800px;
     margin: 0 auto;
-    border: 1px solid red;
 }
 header{
     display: flex;
@@ -273,18 +272,13 @@ footer nav a {
     color: white;
 }
 
-
-/* start of about page */
-/* .containerabout-page{
-    margin: 0,auto;
-} */
+/* start of the about page html */
 
 .top-content2{
   display:flex;
-  border: 2px solid blue;
   flex-wrap:nowrap;
   width:370px;
-  /* justify-content:space-between; */
+  
 }
 
 .middle-content2{
@@ -301,4 +295,10 @@ footer nav a {
     
 }
 
+
+
+button{
+    border-radius: 8px;
+    background-color:white;
+}
 
