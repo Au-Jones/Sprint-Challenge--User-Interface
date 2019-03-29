@@ -44,7 +44,7 @@ inline and block elements can be nested inside of block elements.
 display: inline height and width have no effect.
 it only takes up as much space as its content
 
-3. What are the 4 areas of the box model?
+3. what are the four parts to the box model?
 
 content,padding,border,margin
 
